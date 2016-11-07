@@ -1,0 +1,17 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="286490a6-17cf-40b5-adc8-ac8ff2044d32" name="DEV on .213" url="http://172.16.215.213flow">
+        <fileTransfer host="172.16.215.213flow" port="22" rootFolder="/var/www/jsampedro" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAsPfHxMSRVPmkvKzai5EfYgrYDpmWPRy1dq0ijo/Vxb6VbwI0sroD0vRp2DktPlAf8SwNsR1CAjIN9ugVMfXDfXL6vcQSNGEhlb2vrKtyQg79yVDu/TgI6jQ270sfVDkoG+Xuz5idqVJTxnJfp9J3lXLv25/Vx1D+yHVfXXkxDIlDOiDQwIGStMRvGunyFsu9E/lpVCdLUOvy/bCqsv41AWYzcweJ08CaH8DfKI8016mD8r1q5LBH32F1d76r0V2ORQ==</data>
+  </component>
+</application>

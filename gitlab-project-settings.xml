@@ -1,0 +1,562 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="http://gitlab.privalia.pin/" />
+    <option name="token" value="qYd5CAYoxcszrb1hL4cH" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/infrastructure/saltstack.git" />
+          <option name="name" value="saltstack" />
+          <option name="namespace" value="infrastructure" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:infrastructure/saltstack.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/abcesar-php-client.git" />
+          <option name="name" value="abcesar-php-client" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/abcesar-php-client.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/ABCesar.git" />
+          <option name="name" value="ABCesar_old" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/ABCesar.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/arq_referenciaunica.git" />
+          <option name="name" value="ARQ_ReferenciaUnica" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/arq_referenciaunica.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/arq_webservice.git" />
+          <option name="name" value="ARQ_WebService" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/arq_webservice.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/changes_report.git" />
+          <option name="name" value="CHANGES_REPORT" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/changes_report.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/claireandbruce.git" />
+          <option name="name" value="claireandbruce" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/claireandbruce.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/git-flow-poc.git" />
+          <option name="name" value="git-flow-poc" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/git-flow-poc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/git-flow-validation.git" />
+          <option name="name" value="git-flow-validation" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/git-flow-validation.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_akamai.git" />
+          <option name="name" value="Privalia_akamai" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_akamai.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/Privalia_API_ABCesar.git" />
+          <option name="name" value="Privalia_API_ABCesar" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/Privalia_API_ABCesar.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/Privalia_API_Billing.git" />
+          <option name="name" value="Privalia_API_Billing" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/Privalia_API_Billing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/Privalia_API_Catalog.git" />
+          <option name="name" value="Privalia_API_Catalog" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/Privalia_API_Catalog.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/Privalia_API_Payments.git" />
+          <option name="name" value="Privalia_API_Payments" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/Privalia_API_Payments.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/Privalia_API_Recommendation.git" />
+          <option name="name" value="Privalia_API_Recommendation" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/Privalia_API_Recommendation.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_api_silex_skeleton.git" />
+          <option name="name" value="Privalia_API_Silex_Skeleton" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_api_silex_skeleton.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_api_som.git" />
+          <option name="name" value="Privalia_API_SOM" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_api_som.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_api_thumbor.git" />
+          <option name="name" value="Privalia_API_Thumbor" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_api_thumbor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/Privalia_API_TMS.git" />
+          <option name="name" value="Privalia_API_TMS" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/Privalia_API_TMS.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/Privalia_API_Warehouse.git" />
+          <option name="name" value="Privalia_API_Warehouse" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/Privalia_API_Warehouse.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_aspartino.git" />
+          <option name="name" value="Privalia_Aspartino" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_aspartino.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_auth_ws.git" />
+          <option name="name" value="Privalia_Auth_WS" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_auth_ws.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_authentication_acls.git" />
+          <option name="name" value="Privalia_Authentication_Acls" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_authentication_acls.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_bbdd_releases.git" />
+          <option name="name" value="Privalia_BBDD_releases" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_bbdd_releases.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_bsmonitor.git" />
+          <option name="name" value="Privalia_BSMonitor" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_bsmonitor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_centos6x_nightly.git" />
+          <option name="name" value="Privalia_CentOS6X_Nightly" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_centos6x_nightly.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_configs.git" />
+          <option name="name" value="Privalia_Configs" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_configs.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_crons.git" />
+          <option name="name" value="Privalia_crons" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_crons.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_datamodels.git" />
+          <option name="name" value="Privalia_DataModels" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_datamodels.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_db_dump.git" />
+          <option name="name" value="Privalia_DB_Dump" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_db_dump.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_db_seshat.git" />
+          <option name="name" value="Privalia_db_seshat" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_db_seshat.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_db_upgrade_balar.git" />
+          <option name="name" value="Privalia_db_upgrade_balar" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_db_upgrade_balar.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_deployment_scripts.git" />
+          <option name="name" value="Privalia_Deployment_Scripts" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_deployment_scripts.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_emarsys.git" />
+          <option name="name" value="Privalia_Emarsys" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_emarsys.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_fanshop.git" />
+          <option name="name" value="Privalia_Fanshop" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_fanshop.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_fb_promo.git" />
+          <option name="name" value="Privalia_FB_Promo" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_fb_promo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_fb_sas.git" />
+          <option name="name" value="Privalia_FB_SAS" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_fb_sas.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_fb_welcome.git" />
+          <option name="name" value="Privalia_FB_Welcome" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_fb_welcome.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_finance_api.git" />
+          <option name="name" value="Privalia_Finance_API" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_finance_api.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_front_common.git" />
+          <option name="name" value="Privalia_front_common" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_front_common.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_infrastructure.git" />
+          <option name="name" value="Privalia_Infrastructure" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_infrastructure.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_it_systems.git" />
+          <option name="name" value="Privalia_IT_Systems" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_it_systems.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_itmonitor.git" />
+          <option name="name" value="Privalia_ITMonitor" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_itmonitor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_itplatform.git" />
+          <option name="name" value="Privalia_ITPlatform" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_itplatform.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_localbo_es.git" />
+          <option name="name" value="Privalia_localbo_es" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_localbo_es.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_maf.git" />
+          <option name="name" value="Privalia_MAF" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_maf.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_mailingtemplates.git" />
+          <option name="name" value="Privalia_MailingTemplates" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_mailingtemplates.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_meta4_data.git" />
+          <option name="name" value="Privalia_Meta4_Data" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_meta4_data.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_midpsp.git" />
+          <option name="name" value="Privalia_midpsp" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_midpsp.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_midpsp_ear.git" />
+          <option name="name" value="Privalia_midpsp_ear" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_midpsp_ear.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_midpsp_sql.git" />
+          <option name="name" value="Privalia_MIDPSP_SQL" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_midpsp_sql.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/Privalia_MMS.git" />
+          <option name="name" value="Privalia_MMS" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/Privalia_MMS.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_newaspartino.git" />
+          <option name="name" value="Privalia_NewAspartino" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_newaspartino.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_pim_backend.git" />
+          <option name="name" value="Privalia_PIM_BackEnd" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_pim_backend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_pmo_dashboard.git" />
+          <option name="name" value="Privalia_PMO_Dashboard" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_pmo_dashboard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_pmo_planner.git" />
+          <option name="name" value="Privalia_PMO_Planner" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_pmo_planner.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_privanet.git" />
+          <option name="name" value="Privalia_Privanet" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_privanet.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_production_global_services.git" />
+          <option name="name" value="Privalia_production_global_services" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_production_global_services.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/Privalia_prueba.git" />
+          <option name="name" value="Privalia_prueba" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/Privalia_prueba.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_puppet.git" />
+          <option name="name" value="Privalia_Puppet" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_puppet.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_referenciaunica.git" />
+          <option name="name" value="Privalia_ReferenciaUnica" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_referenciaunica.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_releasecontrol.git" />
+          <option name="name" value="Privalia_ReleaseControl" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_releasecontrol.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_replimax.git" />
+          <option name="name" value="Privalia_repliMax" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_replimax.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/Privalia_ResizeImgs.git" />
+          <option name="name" value="Privalia_ResizeImgs" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/Privalia_ResizeImgs.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_sacarino_br.git" />
+          <option name="name" value="Privalia_sacarino_br" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_sacarino_br.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_sacarino_es.git" />
+          <option name="name" value="Privalia_sacarino_es" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_sacarino_es.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_sacarino_fr.git" />
+          <option name="name" value="Privalia_sacarino_fr" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_sacarino_fr.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_sacarino_it.git" />
+          <option name="name" value="Privalia_sacarino_it" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_sacarino_it.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_sacarino_mx.git" />
+          <option name="name" value="Privalia_sacarino_mx" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_sacarino_mx.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_salescatalog.git" />
+          <option name="name" value="Privalia_SalesCatalog" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_salescatalog.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_salesmonitor.git" />
+          <option name="name" value="Privalia_SalesMonitor" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_salesmonitor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_sauceselenium.git" />
+          <option name="name" value="Privalia_SauceSelenium" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_sauceselenium.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_secure_br.git" />
+          <option name="name" value="Privalia_secure_br" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_secure_br.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_segmentation.git" />
+          <option name="name" value="Privalia_Segmentation" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_segmentation.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_selenium.git" />
+          <option name="name" value="Privalia_Selenium" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_selenium.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_selenium_old.git" />
+          <option name="name" value="Privalia_Selenium_old" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_selenium_old.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_service_crm.git" />
+          <option name="name" value="Privalia_Service_CRM" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_service_crm.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_service_maf.git" />
+          <option name="name" value="Privalia_Service_MAF" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_service_maf.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_service_productrecovery.git" />
+          <option name="name" value="Privalia_Service_ProductRecovery" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_service_productrecovery.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_service_sku.git" />
+          <option name="name" value="Privalia_Service_SKU" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_service_sku.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_service_tpv.git" />
+          <option name="name" value="Privalia_Service_TPV" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_service_tpv.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_service_zp.git" />
+          <option name="name" value="Privalia_Service_ZP" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_service_zp.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_sistemas.git" />
+          <option name="name" value="Privalia_Sistemas" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_sistemas.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_som.git" />
+          <option name="name" value="Privalia_SOM" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_som.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_storedprocedures.git" />
+          <option name="name" value="Privalia_StoredProcedures" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_storedprocedures.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_stress_test.git" />
+          <option name="name" value="Privalia_Stress_Test" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_stress_test.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_suppliers_portal.git" />
+          <option name="name" value="Privalia_Suppliers_Portal" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_suppliers_portal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_symfony_bundles.git" />
+          <option name="name" value="Privalia_Symfony_Bundles" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_symfony_bundles.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_tpv.git" />
+          <option name="name" value="Privalia_TPV" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_tpv.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_varnishvcl.git" />
+          <option name="name" value="Privalia_VarnishVCL" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_varnishvcl.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_webapp.git" />
+          <option name="name" value="Privalia_WebApp" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_webapp.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/privalia_wwu.git" />
+          <option name="name" value="Privalia_WWU" />
+          <option name="namespace" value="platform" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/privalia_wwu.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>
