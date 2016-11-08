@@ -54,9 +54,13 @@
           <option name="url" value="git@gitlab.privalia.pin:platform/privalia_webapp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.privalia.pin:platform/privalia_sacarino_it.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\jose.sampedro\Workspace\git" />
+    <option name="cloneParentDir" value="C:\Users\jose.sampedro\Workspace\git\privalia_sacarino_it" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\jose.sampedro\Desktop" />
