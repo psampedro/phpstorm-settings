@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="70379513-7918-4895-9c91-c83f60ece58b" name="DEV on .221" url="http://172.16.215.221">
+        <fileTransfer host="172.16.215.221" port="22" rootFolder="/var/www/jsampedro" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
