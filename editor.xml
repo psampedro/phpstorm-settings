@@ -6,5 +6,8 @@
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern pattern="\btodoce\b.*" />
+    <filter name="CE To-Do's">
+      <pattern index="2" />
+    </filter>
   </component>
 </application>
