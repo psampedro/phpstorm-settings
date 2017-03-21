@@ -2,7 +2,7 @@
   <component name="FindSettings">
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="FILE_MASK" value="*.php,*.ini" />
+    <option name="FILE_MASK" value="*.php,*.ini, *.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,6 +19,7 @@
       <mask>*.php, *.js</mask>
       <mask>*.php</mask>
       <mask>*.php,*.ini</mask>
+      <mask>*.php,*.ini, *.js</mask>
     </recentFileMasks>
   </component>
 </application>
