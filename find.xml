@@ -5,14 +5,8 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ini, *.php, *.conf, *.js" />
+    <option name="FILE_MASK" value="*.ini, *.php, *.conf, *.js, *.tpl" />
     <recentFileMasks>
-      <mask>*.php,*.ini,</mask>
-      <mask>*.php,*.ini</mask>
-      <mask>*.php,*.i</mask>
-      <mask>*.php,*.</mask>
-      <mask>*.php,</mask>
-      <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.i</mask>
@@ -37,6 +31,12 @@
       <mask>*.ini, *.php, *.conf, *</mask>
       <mask>*.ini, *.php, *.conf, *.</mask>
       <mask>*.ini, *.php, *.conf, *.js</mask>
+      <mask>*.ini, *.php, *.conf, *.js,</mask>
+      <mask>*.ini, *.php, *.conf, *.js, *</mask>
+      <mask>*.ini, *.php, *.conf, *.js, *.</mask>
+      <mask>*.ini, *.php, *.conf, *.js, *.t</mask>
+      <mask>*.ini, *.php, *.conf, *.js, *.tp</mask>
+      <mask>*.ini, *.php, *.conf, *.js, *.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
