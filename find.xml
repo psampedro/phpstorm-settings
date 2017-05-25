@@ -4,13 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.i</mask>
-      <mask>*.ini;</mask>
-      <mask>*.ini</mask>
-      <mask>*.ini,</mask>
-      <mask>*.ini,</mask>
       <mask>*.ini, _</mask>
       <mask>*.ini, _*</mask>
       <mask>*.ini, _*.</mask>
@@ -34,6 +27,13 @@
       <mask>*.ini, *.php, *.conf, *.js, *.t</mask>
       <mask>*.ini, *.php, *.conf, *.js, *.tp</mask>
       <mask>*.ini, *.php, *.conf, *.js, *.tpl</mask>
+      <mask>*.js, *.tpl</mask>
+      <mask>*.js, *.tp</mask>
+      <mask>*.js, *.t</mask>
+      <mask>*.js, *.</mask>
+      <mask>*.js, *</mask>
+      <mask>*.js,</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
