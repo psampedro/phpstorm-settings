@@ -76,6 +76,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\jose.sampedro\Workspace\git\privalia_webapp" />
+    <option name="cloneParentDir" value="$USER_HOME$/Workspace/git/" />
   </component>
 </application>
