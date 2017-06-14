@@ -1,15 +1,15 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="286490a6-17cf-40b5-adc8-ac8ff2044d32" name="DEV on .213" url="https://es.jsampedro.privalia.dev">
+      <webServer id="286490a6-17cf-40b5-adc8-ac8ff2044d32" name="VM .213" url="https://es.jsampedro.privalia.dev">
         <fileTransfer host="172.16.215.213" port="22" rootFolder="/var/www/jsampedro" accessType="SFTP">
           <advancedOptions>
-            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="70379513-7918-4895-9c91-c83f60ece58b" name="DEV on .221" url="http://172.16.215.221">
+      <webServer id="70379513-7918-4895-9c91-c83f60ece58b" name="VM .221" url="http://172.16.215.221">
         <fileTransfer host="172.16.215.221" port="22" rootFolder="/var/www/jsampedro" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
