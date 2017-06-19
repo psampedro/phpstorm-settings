@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar-qa.privalia.pin" />
+          <token />
+          <option name="name" value="Privalia" />
+          <organizationKey />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
