@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*php" />
     <recentFileMasks>
-      <mask>*.ini, *.php, *.co</mask>
-      <mask>*.ini, *.php, *.conf</mask>
-      <mask>*.ini, *.php, *.conf,</mask>
       <mask>*.ini, *.php, *.conf,</mask>
       <mask>*.ini, *.php, *.conf, *</mask>
       <mask>*.ini, *.php, *.conf, *.</mask>
@@ -32,8 +30,11 @@
       <mask>*.tpl</mask>
       <mask>*.tp</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*php</mask>
     </recentFileMasks>
   </component>
 </application>
