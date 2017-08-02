@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../application/controllers/externalRequest.php - [privalia_webapp]'" />
+    <option name="defaultScopeName" value="File '.../application/controllers/externalRequest.php - [privalia_webapp]'" />
+    <option name="SEARCH_SCOPE" value="File '.../application/controllers/externalRequest.php - [privalia_webapp]'" />
     <recentFileMasks>
       <mask>*.ini, *.php, *.conf,</mask>
       <mask>*.ini, *.php, *.conf, *</mask>
