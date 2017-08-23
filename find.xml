@@ -1,17 +1,14 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*ini" />
     <recentFileMasks>
-      <mask>*.ini, *.php, *.conf, *.js</mask>
-      <mask>*.ini, *.php, *.conf, *.js,</mask>
-      <mask>*.ini, *.php, *.conf, *.js, *</mask>
-      <mask>*.ini, *.php, *.conf, *.js, *.</mask>
-      <mask>*.ini, *.php, *.conf, *.js, *.t</mask>
-      <mask>*.ini, *.php, *.conf, *.js, *.tp</mask>
-      <mask>*.ini, *.php, *.conf, *.js, *.tpl</mask>
-      <mask>*.js, *.tpl</mask>
       <mask>*.js, *.tp</mask>
       <mask>*.js, *.t</mask>
       <mask>*.js,</mask>
@@ -32,8 +29,16 @@
       <mask>*php</mask>
       <mask>*ph</mask>
       <mask>*p</mask>
-      <mask>*</mask>
       <mask>*js</mask>
+      <mask>*j</mask>
+      <mask>*conf</mask>
+      <mask>*con</mask>
+      <mask>*co</mask>
+      <mask>*c</mask>
+      <mask>*</mask>
+      <mask>*i</mask>
+      <mask>*in</mask>
+      <mask>*ini</mask>
     </recentFileMasks>
   </component>
 </application>
