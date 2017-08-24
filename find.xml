@@ -10,13 +10,9 @@
       <mask>*.js, *.</mask>
       <mask>*.js, *.ph</mask>
       <mask>*.js, *.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.tpl</mask>
       <mask>*.tp</mask>
       <mask>*.t</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*php</mask>
       <mask>*ph</mask>
       <mask>*p</mask>
@@ -33,7 +29,11 @@
       <mask>*.ini</mask>
       <mask>*.in</mask>
       <mask>*.i</mask>
+      <mask>*.p</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
+      <mask>*.ph</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
