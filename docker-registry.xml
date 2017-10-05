@@ -1,9 +1,9 @@
 <application>
   <component name="DockerRegistry">
-    <DockerRegistry email="">
-      <option name="address" value="pdc1k8sregistry2.privalia.pin" />
+    <DockerRegistry email="jose.sampedro@privalia.com">
+      <option name="address" value="spdc1k8sregistry2.privalia.pin" />
       <option name="name" value="Privalia Registry" />
-      <option name="username" value="" />
+      <option name="username" value="privalia" />
     </DockerRegistry>
   </component>
 </application>
