@@ -2,11 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*p</mask>
-      <mask>*js</mask>
       <mask>*j</mask>
       <mask>*conf</mask>
       <mask>*con</mask>
@@ -23,7 +23,6 @@
       <mask>*.tp</mask>
       <mask>*.t</mask>
       <mask>*.ph</mask>
-      <mask>*.php</mask>
       <mask>*tplk</mask>
       <mask>*tpl</mask>
       <mask>*tp</mask>
@@ -31,10 +30,13 @@
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
-      <mask>*.j</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*</mask>
+      <mask>*ph</mask>
+      <mask>*php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
