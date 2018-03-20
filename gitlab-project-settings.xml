@@ -5,16 +5,124 @@
     <option name="projects">
       <list>
         <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/Conversion_Testing/Privalia_API_Promotions.git" />
+          <option name="name" value="Privalia_API_Promotions" />
+          <option name="namespace" value="AdTech" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:Conversion_Testing/Privalia_API_Promotions.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/architecture/docker-compose-skeleton.git" />
+          <option name="name" value="docker-compose-skeleton" />
+          <option name="namespace" value="architecture" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:architecture/docker-compose-skeleton.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/architecture/privalia-generator-docker.git" />
+          <option name="name" value="privalia-generator-docker" />
+          <option name="namespace" value="architecture" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:architecture/privalia-generator-docker.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="http://gitlab.privalia.pin/architecture/PrivaliaApiSdk.git" />
           <option name="name" value="PrivaliaApiSdk" />
           <option name="namespace" value="architecture" />
           <option name="sshUrl" value="git@gitlab.privalia.pin:architecture/PrivaliaApiSdk.git" />
         </ProjectDto>
         <ProjectDto>
-          <option name="httpUrl" value="http://gitlab.privalia.pin/channels/address-recommender.git" />
+          <option name="httpUrl" value="http://gitlab.privalia.pin/customer/address-manager.git" />
+          <option name="name" value="address-manager" />
+          <option name="namespace" value="customer" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:customer/address-manager.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/customer/address-recommender.git" />
           <option name="name" value="address-recommender" />
-          <option name="namespace" value="channels" />
-          <option name="sshUrl" value="git@gitlab.privalia.pin:channels/address-recommender.git" />
+          <option name="namespace" value="customer" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:customer/address-recommender.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/deprecated/pmp-front-basket-demo.git" />
+          <option name="name" value="pmp-front-basket-demo" />
+          <option name="namespace" value="deprecated" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/deprecated/pmp-front-basket-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/deprecated/pmp-front-demo.git" />
+          <option name="name" value="pmp-front-demo" />
+          <option name="namespace" value="deprecated" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/deprecated/pmp-front-demo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/deprecated/pmp-front-docs.git" />
+          <option name="name" value="pmp-front-docs" />
+          <option name="namespace" value="deprecated" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/deprecated/pmp-front-docs.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/deprecated/pmp-front-metadata.git" />
+          <option name="name" value="pmp-front-metadata" />
+          <option name="namespace" value="deprecated" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/deprecated/pmp-front-metadata.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/deprecated/pmp-front-oauth-client.git" />
+          <option name="name" value="pmp-front-oauth-client" />
+          <option name="namespace" value="deprecated" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/deprecated/pmp-front-oauth-client.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/deprecated/pmp-front-oauth-resource.git" />
+          <option name="name" value="pmp-front-oauth-resource" />
+          <option name="namespace" value="deprecated" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/deprecated/pmp-front-oauth-resource.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/deprecated/pmp-front-orders.git" />
+          <option name="name" value="pmp-front-orders" />
+          <option name="namespace" value="deprecated" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/deprecated/pmp-front-orders.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/deprecated/pmp-front-payment.git" />
+          <option name="name" value="pmp-front-payment" />
+          <option name="namespace" value="deprecated" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/deprecated/pmp-front-payment.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/deprecated/pmp-front-search-common.git" />
+          <option name="name" value="pmp-front-search-common" />
+          <option name="namespace" value="deprecated" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/deprecated/pmp-front-search-common.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/deprecated/pmp-front-search-rev1.git" />
+          <option name="name" value="pmp-front-search-rev1" />
+          <option name="namespace" value="deprecated" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/deprecated/pmp-front-search-rev1.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/deprecated/pmp-front-search-workers.git" />
+          <option name="name" value="pmp-front-search-workers" />
+          <option name="namespace" value="deprecated" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/deprecated/pmp-front-search-workers.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/deprecated/pmp-front-sso-client.git" />
+          <option name="name" value="pmp-front-sso-client" />
+          <option name="namespace" value="deprecated" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/deprecated/pmp-front-sso-client.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/deprecated/thumbor-mkp-api.git" />
+          <option name="name" value="thumbor-mkp-api" />
+          <option name="namespace" value="deprecated" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/deprecated/thumbor-mkp-api.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/deprecated/wiki.git" />
+          <option name="name" value="wiki" />
+          <option name="namespace" value="deprecated" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/deprecated/wiki.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="http://gitlab.privalia.pin/infrastructure/saltstack.git" />
@@ -27,6 +135,456 @@
           <option name="name" value="saltstack-aws" />
           <option name="namespace" value="infrastructure" />
           <option name="sshUrl" value="git@gitlab.privalia.pin:infrastructure/saltstack-aws.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/AmazonBTGDataExtractor.git" />
+          <option name="name" value="AmazonBTGDataExtractor" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/AmazonBTGDataExtractor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/devops.git" />
+          <option name="name" value="devops" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/devops.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/docker-templates.git" />
+          <option name="name" value="docker-templates" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/docker-templates.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/frontend-storefront.git" />
+          <option name="name" value="frontend-storefront" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/frontend-storefront.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/frontend-uc.git" />
+          <option name="name" value="frontend-uc" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/frontend-uc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/huevos.git" />
+          <option name="name" value="huevos" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/huevos.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/jenkins-pipelines.git" />
+          <option name="name" value="jenkins-pipelines" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/jenkins-pipelines.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/jenkins-scripts.git" />
+          <option name="name" value="jenkins-scripts" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/jenkins-scripts.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/msg-api.git" />
+          <option name="name" value="msg-api" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/msg-api.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/msg-cleaner.git" />
+          <option name="name" value="msg-cleaner" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/msg-cleaner.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/msg-consumer.git" />
+          <option name="name" value="msg-consumer" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/msg-consumer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/msg-handler.git" />
+          <option name="name" value="msg-handler" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/msg-handler.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/msg-perf-test.git" />
+          <option name="name" value="msg-perf-test" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/msg-perf-test.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/msg-retranslator.git" />
+          <option name="name" value="msg-retranslator" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/msg-retranslator.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/msg-retrier.git" />
+          <option name="name" value="msg-retrier" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/msg-retrier.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/msg-root.git" />
+          <option name="name" value="msg-root" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/msg-root.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/oms-testing.git" />
+          <option name="name" value="oms-testing" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/oms-testing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pim-testing.git" />
+          <option name="name" value="pim-testing" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pim-testing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-front-basket.git" />
+          <option name="name" value="pmp-front-basket" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-front-basket.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-front-checkout.git" />
+          <option name="name" value="pmp-front-checkout" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-front-checkout.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-front-config.git" />
+          <option name="name" value="pmp-front-config" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-front-config.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-front-framework.git" />
+          <option name="name" value="pmp-front-framework" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-front-framework.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-front-identity.git" />
+          <option name="name" value="pmp-front-identity" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-front-identity.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-front-oauth.git" />
+          <option name="name" value="pmp-front-oauth" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-front-oauth.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-front-omnipay-adyen.git" />
+          <option name="name" value="pmp-front-omnipay-adyen" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-front-omnipay-adyen.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-front-omnipay-common.git" />
+          <option name="name" value="pmp-front-omnipay-common" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-front-omnipay-common.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-front-omnipay-paypal.git" />
+          <option name="name" value="pmp-front-omnipay-paypal" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-front-omnipay-paypal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-front-omnipay-tests.git" />
+          <option name="name" value="pmp-front-omnipay-tests" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-front-omnipay-tests.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-front-payment-adyen.git" />
+          <option name="name" value="pmp-front-payment-adyen" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-front-payment-adyen.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-front-sdk.git" />
+          <option name="name" value="pmp-front-sdk" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-front-sdk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-front-search.git" />
+          <option name="name" value="pmp-front-search" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-front-search.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-front-sso.git" />
+          <option name="name" value="pmp-front-sso" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-front-sso.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-integrations-babel.git" />
+          <option name="name" value="pmp-integrations-babel" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-integrations-babel.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-integrations-email.git" />
+          <option name="name" value="pmp-integrations-email" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-integrations-email.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-integrations-mirakl.git" />
+          <option name="name" value="pmp-integrations-mirakl" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-integrations-mirakl.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-integrations-mirakl-oms.git" />
+          <option name="name" value="pmp-integrations-mirakl-oms" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-integrations-mirakl-oms.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-integrations-payment.git" />
+          <option name="name" value="pmp-integrations-payment" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-integrations-payment.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-integrations-s3.git" />
+          <option name="name" value="pmp-integrations-s3" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-integrations-s3.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-integrations-sap.git" />
+          <option name="name" value="pmp-integrations-sap" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-integrations-sap.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-integrations-sap-router.git" />
+          <option name="name" value="pmp-integrations-sap-router" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-integrations-sap-router.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-marketpay-sellers-integration.git" />
+          <option name="name" value="pmp-marketpay-sellers-integration" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-marketpay-sellers-integration.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-platform-bom.git" />
+          <option name="name" value="pmp-platform-bom" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-platform-bom.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-platform-common-indicators.git" />
+          <option name="name" value="pmp-platform-common-indicators" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-platform-common-indicators.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-platform-common-setup-plugin.git" />
+          <option name="name" value="pmp-platform-common-setup-plugin" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-platform-common-setup-plugin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-product-search-lib.git" />
+          <option name="name" value="pmp-product-search-lib" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-product-search-lib.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-sale-channel-mgmt.git" />
+          <option name="name" value="pmp-sale-channel-mgmt" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-sale-channel-mgmt.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-sso-fc-integration.git" />
+          <option name="name" value="pmp-sso-fc-integration" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-sso-fc-integration.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-suggestions-indexer.git" />
+          <option name="name" value="pmp-suggestions-indexer" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-suggestions-indexer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-thumbor-api.git" />
+          <option name="name" value="pmp-thumbor-api" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-thumbor-api.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-uc-api-facade.git" />
+          <option name="name" value="pmp-uc-api-facade" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-uc-api-facade.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-uc-catalog.git" />
+          <option name="name" value="pmp-uc-catalog" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-uc-catalog.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-uc-catalog-testutils.git" />
+          <option name="name" value="pmp-uc-catalog-testutils" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-uc-catalog-testutils.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-uc-email-customer.git" />
+          <option name="name" value="pmp-uc-email-customer" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-uc-email-customer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-uc-env-utils.git" />
+          <option name="name" value="pmp-uc-env-utils" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-uc-env-utils.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-uc-images.git" />
+          <option name="name" value="pmp-uc-images" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-uc-images.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-uc-oms.git" />
+          <option name="name" value="pmp-uc-oms" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-uc-oms.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-uc-oms-testutils.git" />
+          <option name="name" value="pmp-uc-oms-testutils" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-uc-oms-testutils.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-uc-poc-db-performance.git" />
+          <option name="name" value="pmp-uc-poc-db-performance" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-uc-poc-db-performance.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-uc-product-import.git" />
+          <option name="name" value="pmp-uc-product-import" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-uc-product-import.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-uc-router.git" />
+          <option name="name" value="pmp-uc-router" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-uc-router.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-uc-sale-channel-mgmt.git" />
+          <option name="name" value="pmp-uc-sale-channel-mgmt" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-uc-sale-channel-mgmt.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/pmp-uc-us.git" />
+          <option name="name" value="pmp-uc-us" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/pmp-uc-us.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/privalia-unified-catalog-testing.git" />
+          <option name="name" value="privalia-unified-catalog-testing" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/privalia-unified-catalog-testing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/scriptspy.git" />
+          <option name="name" value="scriptspy" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/scriptspy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/sf-catalog-cm-consumer.git" />
+          <option name="name" value="sf-catalog-cm-consumer" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/sf-catalog-cm-consumer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/sf-catalog-ipq-consumer.git" />
+          <option name="name" value="sf-catalog-ipq-consumer" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/sf-catalog-ipq-consumer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/storefront-integration-test.git" />
+          <option name="name" value="storefront-integration-test" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/storefront-integration-test.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/test-unit-2.git" />
+          <option name="name" value="test-unit-2" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/test-unit-2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/uc-cm-sf-catalog-checker.git" />
+          <option name="name" value="uc-cm-sf-catalog-checker" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/uc-cm-sf-catalog-checker.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/uc-rpm-templates.git" />
+          <option name="name" value="uc-rpm-templates" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/uc-rpm-templates.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/marketplace/uc-services-config.git" />
+          <option name="name" value="uc-services-config" />
+          <option name="namespace" value="marketplace" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:marketplace/uc-services-config.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/microservices/docker_base_creator.git" />
+          <option name="name" value="docker_base_creator" />
+          <option name="namespace" value="microservices" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:microservices/docker_base_creator.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/microservices/jenkinsfiles.git" />
+          <option name="name" value="jenkinsfiles" />
+          <option name="namespace" value="microservices" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:microservices/jenkinsfiles.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/microservices/shared_library.git" />
+          <option name="name" value="shared_library" />
+          <option name="namespace" value="microservices" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:microservices/shared_library.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/payments/Privalia_API_Payments.git" />
+          <option name="name" value="Privalia_API_Payments" />
+          <option name="namespace" value="payments" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:payments/Privalia_API_Payments.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="http://gitlab.privalia.pin/payments/Privalia_FPService.git" />
@@ -117,12 +675,6 @@
           <option name="name" value="Privalia_API_Feature" />
           <option name="namespace" value="platform" />
           <option name="sshUrl" value="git@gitlab.privalia.pin:platform/Privalia_API_Feature.git" />
-        </ProjectDto>
-        <ProjectDto>
-          <option name="httpUrl" value="http://gitlab.privalia.pin/platform/Privalia_API_Payments.git" />
-          <option name="name" value="Privalia_API_Payments" />
-          <option name="namespace" value="platform" />
-          <option name="sshUrl" value="git@gitlab.privalia.pin:platform/Privalia_API_Payments.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="http://gitlab.privalia.pin/platform/Privalia_API_ProdActivity.git" />
@@ -689,6 +1241,12 @@
           <option name="sshUrl" value="git@gitlab.privalia.pin:platform/sugar-crm-integration.git" />
         </ProjectDto>
         <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/sf/mpsf-basket.git" />
+          <option name="name" value="mpsf-basket" />
+          <option name="namespace" value="sf" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:sf/mpsf-basket.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="http://gitlab.privalia.pin/som/Privalia_API_ExcelVpReader.git" />
           <option name="name" value="Privalia_API_ExcelVpReader" />
           <option name="namespace" value="som" />
@@ -717,6 +1275,18 @@
           <option name="name" value="Privalia_Kettle_MKT" />
           <option name="namespace" value="tools" />
           <option name="sshUrl" value="git@gitlab.privalia.pin:tools/privalia_kettle_mkt.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/vpintegration/privalia_vp_gateway_common.git" />
+          <option name="name" value="privalia_vp_gateway_common" />
+          <option name="namespace" value="vpintegration" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:vpintegration/privalia_vp_gateway_common.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.privalia.pin/vpintegration/privalia_vp_gateway_converter.git" />
+          <option name="name" value="privalia_vp_gateway_converter" />
+          <option name="namespace" value="vpintegration" />
+          <option name="sshUrl" value="git@gitlab.privalia.pin:vpintegration/privalia_vp_gateway_converter.git" />
         </ProjectDto>
       </list>
     </option>
